@@ -1,0 +1,31 @@
+{
+  "name": "react-native-sport",
+  "version": "0.0.1",
+  "description": "React Native package for unified interaction with Apple HealthKit and Google Fit",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "react-native-sport"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "sport",
+    "fit",
+    "health",
+    "google",
+    "apple",
+    "ios",
+    "android",
+    "healthkit",
+    "fitness",
+    "react-native",
+    "google-fit",
+    "javascript"
+  ],
+  "author": "Łukasz Chludziński lukasz.chludzinski@gmail.com",
+  "license": "ISC"
+}
